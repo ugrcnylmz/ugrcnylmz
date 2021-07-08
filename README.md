@@ -5,7 +5,7 @@ DATA SIENCE
 - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
 ## :man::woman: Social
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/u%C4%9Furcan-y%C4%B1lmaz-aa2289208/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:zeynulsuleyman@gmail.com)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mahttps://stackoverflow.com/users/16068724/u%c4%9furcan-y%c4%b1lmaz)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://zeynulsuleyman.medium.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeynulsuleyman" alt="zeynulsuleyman" /> </p>
 ## :computer: Data Visualization
