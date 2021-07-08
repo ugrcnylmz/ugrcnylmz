@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uğurcan Yılmaz</h1>
 <h3 align="center">- :telescope: I’m currently working on Data Visualization Tools (Matplotlib | Seaborn | Pandas's Own Visualization Features) 
-- :seedling: I’m currently learning data visualization tools (Matplotlib | Seaborn) - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer</h3>
+<h3 align="center">- :seedling: I’m currently learning data visualization tools (Matplotlib | Seaborn) 
+<h3 align="center">- :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ugrcnylmz&label=Profile%20views&color=0e75b6&style=flat" alt="ugrcnylmz" /> </p>
 
